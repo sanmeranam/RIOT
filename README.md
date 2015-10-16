@@ -1,2 +1,2 @@
 # RIOT
-A simpler way to design SVG element with animations and real time event handling.
+A simpler way to design SVG elements with animations and real time event handling.
